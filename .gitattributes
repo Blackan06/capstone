@@ -1,0 +1,16 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_0_0.bundle filter=lfs diff=lfs merge=lfs -text
+Assets/FPT/FPT-text-1-no-B-C-Hall.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/FPT/tree.fbx filter=lfs diff=lfs merge=lfs -text
+.git/objects/48/5bd511b7e06eeb5bbbe184ad4c6717aa7de095 filter=lfs diff=lfs merge=lfs -text
+Assets/JapaneseSchool/Packages/JapaneseSchoolBuilt-In.unitypackage filter=lfs diff=lfs merge=lfs -text
+Assets/JapaneseSchool/Packages/JapaneseSchoolURP.unitypackage filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.7.3/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.7.3/.Runtime/libburst-llvm-12.dylib filter=lfs diff=lfs merge=lfs -text
+Assets/Firebase/Pl
+git[[:space:]]lfs[[:space:]]track[[:space:]]./Assets/JapaneseSchool/Packages/JapaneseSchoolBuilt-In.unitypackage
+git[[:space:]]lfs[[:space:]]track[[:space:]]./Assets/JapaneseSchool/Packages/JapaneseSchoolURP.unitypackage
+git[[:space:]]lfs[[:space:]]track[[:space:]]./Library/ArtifactDB
+git[[:space:]]lfs[[:space:]]track[[:space:]]./Library/PackageCache/com.unity.burst@1.7.3/.Runtime/hostmac/lld
+git[[:space:]]lfs[[:space:]]track[[:space:]]./Library/PackageCache/com.unity.burst@1.7.3/.Runtime/libburst-llvm-12.dylibugins/x86_64/FirebaseCppApp-11_0_0.bundle filter=lfs diff=lfs merge=lfs -text
